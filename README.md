@@ -1,9 +1,10 @@
-# 
+# ReadMe Generator
 
-![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
+
 
 ## Description
 
+To help Users create a readme.  The Apllication promts users with qiestions and takes the answers and populates the sections of the readme.
 
 
 ## Table of Contents
@@ -15,23 +16,23 @@
 
 ## Installation
 
-
+NA
 
 ## Usage
 
-
+Type node idex.js into the terminal to start the program. Answer all the questions and a ReadMe.md file is created.
 
 ## License
 
-Boost 1.0  (https://www.boost.org/LICENSE_1_0.txt)
+
 
 ## Tests
 
-
+NA
 
 ## Questions
   
-Github Username: [](#github.com/) 
+Github Username: [cjtavares](#github.com/cjtavares) 
  
-Email  for any further questions. 
+Email cjtabares@gmail.com for any further questions. 
 

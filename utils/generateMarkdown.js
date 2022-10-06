@@ -54,6 +54,7 @@ ${renderLicenseBadge(data.license)}
 
 ${data.description}
 
+
 ## Table of Contents
 
 - [Installation](#installation)
